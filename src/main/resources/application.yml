@@ -6,4 +6,4 @@ logging:
     com.itheima: debug
 spring:
   application:
-    name: helloworld
+    name: helloworld123
