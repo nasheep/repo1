@@ -1,3 +1,5 @@
 spring:
   application:
     name: xiaobai
+server:
+  port: 8888
